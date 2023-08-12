@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzersVebinar", "Analyzers-Vebinar\AnalyzersVebinar\AnalyzersVebinar.csproj", "{67D32BC8-388D-427A-85B3-80FE1EF4553A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzersVebinar.Sample", "Analyzers-Vebinar\AnalyzersVebinar.Sample\AnalyzersVebinar.Sample.csproj", "{68F4ED28-B471-4571-ADAD-9658D93797D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzersVebinar.Tests", "Analyzers-Vebinar\AnalyzersVebinar.Tests\AnalyzersVebinar.Tests.csproj", "{CBE425BD-5557-4621-A2D9-1B2F0823AAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D32BC8-388D-427A-85B3-80FE1EF4553A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D32BC8-388D-427A-85B3-80FE1EF4553A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D32BC8-388D-427A-85B3-80FE1EF4553A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D32BC8-388D-427A-85B3-80FE1EF4553A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F4ED28-B471-4571-ADAD-9658D93797D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F4ED28-B471-4571-ADAD-9658D93797D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F4ED28-B471-4571-ADAD-9658D93797D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F4ED28-B471-4571-ADAD-9658D93797D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE425BD-5557-4621-A2D9-1B2F0823AAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE425BD-5557-4621-A2D9-1B2F0823AAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE425BD-5557-4621-A2D9-1B2F0823AAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE425BD-5557-4621-A2D9-1B2F0823AAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
